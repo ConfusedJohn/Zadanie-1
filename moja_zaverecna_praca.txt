@@ -1,1 +1,18 @@
 Tvorba logickej hry v 3D Unity
+
+Počítačové hry sú v súčasnosti veľmi populárne. Najčastejšie si pod pojmom počítačová hra vybavíme tzv. strieľačky, ktorých vzdelávací a výchovný prínos je dosť otázny. Okrem tohto typu hier existujú aj iné typy, napr. logické hry, ktoré síce neslúžia na osvojenie si nových zručností a poznatkov, ale na rozvoj logického myslenia pre určenú kategóriu hráčov.
+Cieľ práce: 
+Vysvetliť pojem počítačová hra, opísať jej prínosy pre rôzne oblasti, kategorizovať počítačové hry podľa rôznych kritérií, charakterizovať a porovnať najznámejšie hry, opísať najčastejšie používané herné enginy, vybrať si typ hry, cieľovú skupinu, hru navrhnúť a vytvoriť, a vytvorenú hru otestovať.
+Charakter práce: 
+vývoj softvéru - pozostávajúci z popisu riešeného problému, analýzy existujúcich riešení, návrhu vlastného riešenia, metodiky vývoja/tvorby, implementácie, popisu vytvoreného riešenia, testovania aplikácie používateľmi.
+Predmetové prerekvizity:
+Programovanie a údajové štruktúry (1., bc.)
+Objektovo-orientované programovanie (2., bc.)
+Počítačová grafika (2., bc)
+Aplikovaná počítačová grafika (2., bc)
+Najdôležitejšie kompetentnosti získané spracovaním témy (cca 5):
+formulácia požiadaviek na vývoj softvéru a kontrola požadovaných funkčností a funkcionalít vyvíjaného softvéru
+sledovanie aktuálnych trendov a inovácií vo vývoji softvérových riešení
+implementácia vhodných metód a techník na vývoj softvéru a testovanie vyvíjaných softvérových riešení
+implementácia a testovanie vyvíjaných funkcionalít, aplikácií alebo produktu
+tvorivosť
