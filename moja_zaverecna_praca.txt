@@ -16,3 +16,5 @@ sledovanie aktuálnych trendov a inovácií vo vývoji softvérových riešení
 implementácia vhodných metód a techník na vývoj softvéru a testovanie vyvíjaných softvérových riešení
 implementácia a testovanie vyvíjaných funkcionalít, aplikácií alebo produktu
 tvorivosť
+
+Obhajoba 2023
